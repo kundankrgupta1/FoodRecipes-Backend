@@ -14,17 +14,22 @@ A full-stack Food Recipe Blog where users can explore various recipes, filter th
 ## 🛠️ Tech Stack
 
 ### Frontend:
-- React.js
-- Tailwind CSS
-- JavaScript
-- HTML & CSS
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=black" height="35">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPTS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" height="35">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35">
+</p>
 
 ### Backend:
+<p>
 - Node.js
 - Express.js
 - MongoDB & Mongoose
 - Bcrypt (for password hashing)
 - JWT (for authentication)
+</p>
 
 ## 📂 Project Repositories
 
