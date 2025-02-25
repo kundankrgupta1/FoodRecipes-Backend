@@ -57,7 +57,6 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-_Add some screenshots of your project_
 
 ![Food Recipe Screenshot](https://i.ibb.co/JwSW6wYS/desktop.png)
 ![Food Recipe Screenshot](https://i.ibb.co/rGmXgrP4/mobile.png)
